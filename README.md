@@ -17,6 +17,7 @@ Here are 15 questions, ranging from basic to intermediate to advanced, that you 
 10. Simple Aggregation: What is the total quantity sold for the 'Office Supplies' category?
 
  Intermediate Level
+ 
 11. Group By Aggregations: What is the average unit selling price per category?
 12. Data Transformation: Create a new column 'Total Sales' as the product of 'Quantity' and 'Unit_Selling_Price'.
 13. Conditional Calculation: Calculate the total unit profit only for the 'Consumer' segment.
